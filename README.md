@@ -11,4 +11,4 @@ Through hands-on assignments and implementations, students explore the core comp
 
 - Rendering Techniques
 
-Whether you're manipulating simple shapes or building complex 3D environments, this course equips you with the essential tools and concepts to bring graphics to life.
+Whether you're manipulating simple shapes or building complex 3D environments, this course equips essential tools and concepts to bring graphics to life.
